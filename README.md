@@ -1,3 +1,17 @@
+Download project menggunakan zip <a href='https://github.com/sacodeofficial/javascript-tutorial/archive/refs/heads/main.zip'>di sini </a>
+
+Atau gunakan ```git clone```
+```
+git clone https://github.com/sacodeofficial/javascript-tutorial.git
+```
+
+Kemudian tampilkan di code editor
+
+Jalankan projectnya di web browser
+
+
+## Rincian topik
+
 |  Topic                |              |
 | --------------------- | ---------------- |
 |  ✅ Hello World | <a href='https://github.com/sacodeofficial/javascript-tutorial/blob/main/hello-world/index.html'>view</a>  |
