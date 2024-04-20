@@ -1,3 +1,4 @@
+
 Download project menggunakan zip <a href='https://github.com/sacodeofficial/javascript-tutorial/archive/refs/heads/main.zip'>di sini </a>
 
 Atau gunakan ```git clone```
@@ -17,7 +18,7 @@ Jalankan projectnya di web browser
 |  ✅ Hello World | <a href='https://github.com/sacodeofficial/javascript-tutorial/blob/main/hello-world/index.html'>view</a>  |
 |  ✅ Tipe Data |  <a href='https://github.com/sacodeofficial/javascript-tutorial/blob/main/tipe-data/index.html'>view</a>  | 
 |  ✅ Variabel |  <a href='https://github.com/sacodeofficial/javascript-tutorial/blob/main/variable/index.html'>view</a>  | 
-|  ⌛ Operasi Matematika |  <a href='#'>view</a> |
+|  ✅ Operasi Matematika |  <a href='https://github.com/sacodeofficial/javascript-tutorial/blob/main/operasi-matematika/index.html'>view</a>  | 
 |  ⌛ Perbandingan dan Logika |  <a href='#'>view</a> |
 |  ⌛ Struktur kontrol: if, else if, else |  <a href='#'>view</a> |
 |  ⌛ Penggunaan pernyataan switch-case |  <a href='#'>view</a> |
