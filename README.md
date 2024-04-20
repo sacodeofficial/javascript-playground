@@ -1,8 +1,8 @@
 |  Topic                |              |
 | --------------------- | ---------------- |
-|  ✅ Hello World | <a href='https://github.com/sacodeofficial/javascript-tutorial/blob/main/1/hello-world/index.html'>view</a>  |
-|  ✅ Tipe Data |  <a href='https://github.com/sacodeofficial/javascript-tutorial/blob/main/1/tipe-data/index.html'>view</a>  | 
-|  ✅ Variabel |  <a href='https://github.com/sacodeofficial/javascript-tutorial/blob/main/1/variable/index.html'>view</a>  | 
+|  ✅ Hello World | <a href='https://github.com/sacodeofficial/javascript-tutorial/blob/main/hello-world/index.html'>view</a>  |
+|  ✅ Tipe Data |  <a href='https://github.com/sacodeofficial/javascript-tutorial/blob/main/tipe-data/index.html'>view</a>  | 
+|  ✅ Variabel |  <a href='https://github.com/sacodeofficial/javascript-tutorial/blob/main/variable/index.html'>view</a>  | 
 |  ⌛ Operasi Matematika |  <a href='#'>view</a> |
 |  ⌛ Perbandingan dan Logika |  <a href='#'>view</a> |
 |  ⌛ Struktur kontrol: if, else if, else |  <a href='#'>view</a> |
