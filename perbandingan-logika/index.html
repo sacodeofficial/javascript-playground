@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perbandingan dan Logika</title>
+</head>
+<body>
+    <h2>Perbandingan dan Logika</h2>
+
+    <p>Contoh penggunaan operator perbandingan:</p>
+    <script>
+        let angka1 = 10;
+        let angka2 = 5;
+
+        // Memeriksa apakah nilai angka1 lebih besar dari angka2
+        if (angka1 > angka2) {
+            console.log(angka1 + " lebih besar dari " + angka2);
+            document.write(angka1 + " lebih besar dari " + angka2 + "<br>");
+        } else {
+            console.log(angka1 + " tidak lebih besar dari " + angka2);
+            document.write(angka1 + " tidak lebih besar dari " + angka2 + "<br>");
+        }
+    </script>
+
+    <p>Contoh penggunaan operator logika:</p>
+    <script>
+        let kondisi1 = true;
+        let kondisi2 = false;
+
+        // Menjalankan pengecekan kondisi1 dan kondisi2 menggunakan operator logika AND (&&)
+        if (kondisi1 && kondisi2) {
+            console.log("Kedua kondisi benar");
+            document.write("Kedua kondisi benar" + "<br>");
+        } else if (kondisi1 || kondisi2) {
+            console.log("Salah satu kondisi benar");
+            document.write("Salah satu kondisi benar" + "<br>");
+        } else {
+            console.log("Kedua kondisi salah");
+            document.write("Kedua kondisi salah" + "<br>");
+        }
+
+        // Operator logika AND (&&): Digunakan untuk mengecek apakah kedua kondisi benar.
+        // Operator logika OR (||): Digunakan untuk mengecek apakah salah satu kondisi benar.
+        // Operator logika NOT (!): Digunakan untuk membalik nilai kondisi.
+        // Operator logika XOR (^): Digunakan untuk mengecek apakah salah satu kondisi benar, namun tidak keduanya.
+        // Operator logika NAND: Digunakan untuk mengecek apakah kedua kondisi salah.
+        // Operator logika NOR: Digunakan untuk mengecek apakah kedua kondisi salah.
+        // Operator logika XNOR: Digunakan untuk mengecek apakah kedua kondisi benar atau kedua kondisi salah.
+        
+    </script>
+</body>
+</html>
+
