@@ -1,0 +1,55 @@
+<!-- Contoh tipe data pada JavaScript modern -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Types in JavaScript</title>
+</head>
+<body>
+    <h1>Data Types in JavaScript</h1>
+    <p>Nama: <span id="nama"></span></p>
+    <p>Umur: <span id="umur"></span></p>
+    <p>Menikah: <span id="isMarried"></span></p>
+    <p>Hobi: <span id="hobbies"></span></p>
+
+    <script>
+        // Mendefinisikan variabel nama dengan nilai 'John Doe' (String)
+        // Keyword const digunakan untuk mendeklarasikan variabel yang nilainya tetap (konstan) dan tidak dapat diubah setelah diberikan nilai awal.
+        const nama = 'John Doe';
+
+        // Mendefinisikan variabel umur dengan nilai 30 (Number)
+        // Keyword let digunakan untuk mendeklarasikan variabel yang nilainya dapat diubah.
+        let umur = 30;
+
+        // Mendefinisikan variabel isMarried dengan nilai false (Boolean)
+        const isMarried = false;
+
+        // Mendefinisikan variabel hobbies dengan array ['reading', 'coding', 'gaming'] (Array)
+        const hobbies = ['reading', 'coding', 'gaming'];
+
+        // Mengatur teks pada elemen dengan id 'nama' menjadi nilai dari variabel nama
+        // Menggunakan metode getElementById untuk mendapatkan elemen dengan id 'nama' dan mengatur teksnya menjadi nilai dari variabel nama
+
+        // Penjelasan: Properti textContent digunakan untuk mengatur teks yang ditampilkan di dalam elemen HTML
+        document.getElementById('nama').textContent = nama;
+
+        // Mengatur teks pada elemen dengan id 'umur' menjadi nilai dari variabel umur
+        document.getElementById('umur').textContent = umur;
+
+        // Mengatur teks pada elemen dengan id 'isMarried' berdasarkan kondisi isMarried
+        document.getElementById('isMarried').textContent = isMarried ? 'Ya' : 'Tidak';
+
+        // Mengatur teks pada elemen dengan id 'hobbies' menjadi nilai array hobbies yang digabungkan dengan koma
+        document.getElementById('hobbies').textContent = hobbies.join(', ');
+        
+        // console.log() digunakan untuk mencetak nilai variabel atau pesan ke konsol JavaScript
+        console.log(nama);
+        console.log(umur);
+        console.log(isMarried);
+        console.log(hobbies);
+        
+    </script>
+</body>
+</html>
