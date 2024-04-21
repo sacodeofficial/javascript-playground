@@ -26,8 +26,8 @@ Jalankan projectnya di web browser
 | ⌛ Perulangan dengan do-while loop                              | <a href='#'>view</a>                                                                                                  |
 | ⌛ Penggunaan break dan continue dalam perulangan               | <a href='#'>view</a>                                                                                                  |
 | ⌛ Pengenalan fungsi                                            | <a href='#'>view</a>                                                                                                  |
-| ⌛ Menulis dan memanggil fungsi                                 | <a href='#'>view</a>                                                                                                  |
-| ⌛ Parameter dan argumen fungsi                                 | <a href='#'>view</a>                                                                                                  |
+| ✅ Menulis dan memanggil fungsi                                 | <a href='#'>view</a>                                                                                                  |
+| ✅ Parameter dan argumen fungsi                                 | <a href='#'>view</a>                                                                                                  |
 | ⌛ Pengembalian nilai dari fungsi                               | <a href='#'>view</a>                                                                                                  |
 | ⌛ Array: pengenalan dan penggunaan                             | <a href='#'>view</a>                                                                                                  |
 | ⌛ Object: konsep dasar dan pembuatan objek                     | <a href='#'>view</a>                                                                                                  |
