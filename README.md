@@ -21,7 +21,7 @@ Jalankan projectnya di web browser
 | ✅ Perbandingan dan Logika                                      | <a href='https://github.com/sacodeofficial/javascript-tutorial/blob/main/perbandingan-logika/index.html'>view</a>     |
 | ✅ Struktur kontrol: if, else if, else                          | <a href='https://github.com/sacodeofficial/javascript-tutorial/blob/main/if-elseif-else/if-elseif-else.html'>view</a> |
 | ⌛ Penggunaan pernyataan switch-case                            | <a href='#'>view</a>                                                                                                  |
-| ⌛ Perulangan dengan for loop                                   | <a href='#'>view</a>                                                                                                  |
+| ✅ Perulangan dengan for loop                                   | <a href='https://github.com/sacodeofficial/javascript-tutorial/blob/main/for-loop/for-loop.html'>view</a>             |
 | ⌛ Perulangan dengan while loop                                 | <a href='#'>view</a>                                                                                                  |
 | ⌛ Perulangan dengan do-while loop                              | <a href='#'>view</a>                                                                                                  |
 | ⌛ Penggunaan break dan continue dalam perulangan               | <a href='#'>view</a>                                                                                                  |
