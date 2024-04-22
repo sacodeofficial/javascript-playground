@@ -51,10 +51,13 @@
         Microsoft Edge
     </li>
     <li>
-        Google Chrome
+        Google Chrome (https://www.google.com/chrome/)
     </li>
     <li>
-        Mozilla Firefox
+        Mozilla Firefox (https://www.mozilla.org/id/firefox/new/)
+    </li>
+    <li>
+        Opera Browser (https://www.opera.com)
     </li>
 </ul>
 
