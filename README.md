@@ -10,6 +10,15 @@ Kemudian tampilkan di code editor
 
 Jalankan projectnya di web browser
 
+## Cara Pull Request
+
+Berikut video singkat cara pull request
+https://youtu.be/UVe1a5yIC7g
+
+Klik untuk play video
+[![Watch the video](https://img.youtube.com/vi/UVe1a5yIC7g/maxresdefault.jpg)](https://www.youtube.com/watch?v=UVe1a5yIC7g)
+
+
 ## Rincian topik
 
 | Topic                                                           |                                                                                                                                 |
