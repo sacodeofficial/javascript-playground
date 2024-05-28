@@ -1,4 +1,4 @@
-// Mendefinisikan variabel angka1 dengan nilai 10
+// Mgitendefinisikan variabel angka1 dengan nilai 10
 let angka1 = 10;
 
 // Mendefinisikan variabel angka2 dengan nilai 5
