@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>For Loop</title>
+</head>
+
+<body>
+
+    <script>
+
+        // For Loop
+        for (angka = 0; angka < 10; angka++) {
+            document.writeln(`<p>Perulangan for ${angka}</p>`);
+        }
+
+        // While Loop
+        let counter = 1;
+        while (counter < 10) {
+            document.writeln(`<p>Perulangan while ${counter}</p>`);
+            counter++;
+        }
+
+        // Do While Loop
+        counter = 1;
+        do {
+            document.writeln(`<p>Perulangan do while ${counter}</p>`);
+            counter++;
+        } while (counter <= 10);
+
+        // break
+        counter = 1;
+        while (true) {
+            document.writeln(`<p>Perulangan while ${counter}</p>`);
+            counter++;
+
+            if (counter > 50) {
+                break;
+            }
+        }
+
+        // continue ganjil
+        for (i = 0; i <= 100; i++) {
+            if (i % 2 === 0) {
+                continue;
+            }
+            document.writeln(`<p>Perulangan angka ganjil ${i}</p>`);
+        }
+
+        // continue genap
+        for (i = 0; i <= 100; i++) {
+            if (i % 2 === 1) {
+                continue;
+            }
+            document.writeln(`<p>Perulangan angka genap ${i}</p>`);
+        }
+
+    </script>
+
+</body>
+
+</html>
